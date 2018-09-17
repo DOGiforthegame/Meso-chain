@@ -1,5 +1,5 @@
 # Meso-chain——a hatching platform for the game based on blockchain    
-　　Meso-chain, a deployment platform intergrated with development toolkit and framework,serve for every innovative game developer. By offering a series of deployment tool suite , Meso-chain let the developers deploy their side-chain network without any technical basis. And the universal framework provided by us can greatly reduce the repeated development work each game developer may encounter. Devoting ourselves to solving the technical problem  our game developers are facing, we hope to see more and more excellent production will emerge.  
+　　Meso-chain, a deployment platform intergrated with development toolkit and framework,serve for every innovative game developer. By offering a series of deployment tool suite , Meso-chain let the developers deploy their side-chain network without any technical basis. And the universal framework provided by us can greatly reduce the repeated development work each game developer may encounter. Devoting ourselves to solving the technical problem our game developers are facing, we hope to see more and more excellent production will emerge.  
 
 ## Features
 * Dual-chain mechanism for side-chain network system, one for circulating, and another for synchronization.
